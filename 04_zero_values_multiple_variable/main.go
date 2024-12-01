@@ -6,7 +6,7 @@ func main() {
 	/*
 		var (
 			name      string = "Atakan"
-			age       int    = 24
+			age       int    = 23
 			isMarried bool   = false
 
 			weight float32 = 69.5
@@ -14,9 +14,9 @@ func main() {
 		)
 	*/
 
-	// var name, age, isMarried, weight, height = "Atakan", 24, false, 69.5, 172.5
+	// var name, age, isMarried, weight, height = "Atakan", 23, false, 69.5, 172.5
 
-	name, age, isMarried, weight, height := "Atakan", 24, false, 69.5, 172.5
+	name, age, isMarried, weight, height := "Atakan", 23, false, 69.5, 172.5
 
 	var surname string
 	var year int

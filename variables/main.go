@@ -1,5 +1,5 @@
 // Package Clause
-package main
+package variables
 
 // Import Statement
 import "fmt"
